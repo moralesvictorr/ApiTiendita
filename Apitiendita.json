@@ -129,5 +129,20 @@
             "id": 11,
             "ciudad": "Quimbaya"
         }
+    ],
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "juanMa",
+            "apellido": "gonzalez",
+            "correo": "juanmago@gmail.com"
+        },
+        {
+            "nombre": "laura",
+            "apellido": "Torres",
+            "correo": "lato@gmail.com",
+            "id": 2
+        }
     ]
+
 }
